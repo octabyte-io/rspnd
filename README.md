@@ -43,9 +43,9 @@ We're building this in public and looking for early contributors and adopters wh
 
 Join the journey:
 
-- 💬 [GitHub Discussions](https://github.com/YOUR_REPO/discussions)
+- 💬 [GitHub Discussions](https://github.com/octabyte-io/rspnd/discussions)
 - 🌍 Discord (coming soon)
-- 🐦 [Follow on Twitter](https://twitter.com)
+- 🐦 [Follow on Twitter](https://x.com/octabyte_io)
 - 📚 Docs (coming soon)
 
 ---
